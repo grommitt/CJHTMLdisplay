@@ -1,0 +1,47 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #wrapper{
+    width: 950px;
+    background-color: gray;
+    margin:0px auto;
+    padding: 50px;
+   }
+   #header1, #header2{
+    height: 150px;
+    background-color:red;
+    display: inline-block;
+    width: 464px; 
+    margin: 3px;
+   }
+   #navigation{
+    height: 150px;
+    display: block;
+    background-color: blue;
+   }
+   .yellow{
+    height: 200px;
+    width: 310px;
+    background-color: yellow;
+    display: inline-block;
+   }
+   #green {
+    height: 200px;
+    width: 900px;
+    background-color: green;
+   }
+   .purple, .purple{
+    height: 120px;
+    width: 275px;
+    background-color: purple;
+    display: inline-block;
+    padding: 5px;
+   }
+    .green{
+    height: 200px;
+    width: 275px;
+    background-color: green;
+    display: inline-block;
+   }
